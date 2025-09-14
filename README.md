@@ -5,20 +5,20 @@ Detailed analyst that designed and reviewed clinical quality measure documentati
 Senior Data Analyst
 
 Led the Agile process for the CMS Practice Improvement and Measures Management Support (PIMMS)
-Created detailed user stories and acceptance criteria using Jira.
 Maintained project documentation and meeting notes in Confluence.
 Facilitated sprint planning, retrospectives, and backlog grooming.
-Contributed light code in Markdown and JSON formats for configuration and documentation.
 
 🛠 Tools & Technologies
 
-Jira
-Confluence
-GitHub
-Markdown, JSON
-📂 Repository Contents
+SQL (SQL Server, Oracle)
+SAS (Base SAS, SAS Enterprise Guide)
+Excel/Advanced Excel (Power Query, PivotTables, VBA)
+Tableau
+Power BI
+Excel Dashboards
 
-user-stories/: Example user stories (anonymized)
+
+📂 Repository Contents
 
 sprint-plans/: Sample sprint backlogs
 
@@ -28,4 +28,4 @@ config-snippets/: Light code samples or config files
 
 🚀 Outcome
 
-Successfully managed the delivery of the CMS QHP Survey project across multiple sprints while improving team collaboration and stakeholder transparency.
+Successfully managed the delivery of the CMS PIMMS project across multiple sprints while improving team collaboration and stakeholder transparency.
